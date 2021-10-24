@@ -68,4 +68,7 @@ div{
         margin: 3rem auto;
         font-size: 0.8rem;
     }
+    div{
+        margin:1rem;
+    }
 }
